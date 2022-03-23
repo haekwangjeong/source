@@ -1,0 +1,53 @@
+<annotation>
+	<folder>LG2019</folder>
+	<filename>rotate_left_None_lux1_dev1_Combine_46_tan_pru_toma_pear_carr_egg_cabb_zucc_mel&amp;app_peac_pers_grap_cucu_papri_broc_lett.jpg</filename>
+	<source>
+		<database>LG2019 Database</database>
+		<annotation>LG2019</annotation>
+	</source>
+	<owner>
+		<name>LG Electronics</name>
+	</owner>
+	<size>
+		<width>400</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paprika_vinyl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>21</ymin>
+			<xmax>207</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>apple_vinyl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>115</ymin>
+			<xmax>286</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grapefruit_vinyl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>100</ymin>
+			<xmax>135</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
