@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: /content/source/train/images
+val: /content/source/valid/images
 
 nc: 30
 names: ['paprika_vinyl', 'cucumber', 'apple_vinyl', 'peach', 'peach_vinyl', 'grapefruit', 'persimmon_vinyl', 'tomato', 'persimmon', 'tomato_vinyl', 'grapefruit_vinyl', 'tangerine', 'lettuce', 'cabbage_vinyl', 'lettuce_vinyl', 'pear', 'apple', 'tangerine_vinyl', 'cucumber_vinyl', 'orange_vinyl', 'prune', 'pear_vinyl', 'broccoli_vinyl', 'orange', 'paprika', 'prune_vinyl', 'broccoli', 'eggplant_vinyl', 'melon', 'eggplant']
