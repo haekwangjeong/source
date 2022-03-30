@@ -1,8 +1,8 @@
 train: /content/source/train/images
 val: /content/source/valid/images
 
-nc: 26
-names:  [paprika', 'cucumber', 'apple', 'peach', 'grapefruit', 'tomato', 'persimmon', 'tangerine', 'lettuce', 'cabbage', 'lettuce', 'pear',  'orange', 'tangerine', 'prune','broccoli', 'paprika', 'prune', 'eggplant', 'melon','pumpkin','onion','carrot','radish','enokitake','head lettuce']
+nc: 29
+names:  [paprika', 'cucumber', 'apple', 'peach', 'grapefruit', 'tomato', 'persimmon', 'tangerine', 'lettuce', 'cabbage', 'lettuce', 'pear',  'orange', 'tangerine', 'prune','broccoli', 'paprika', 'prune', 'eggplant', 'melon','pumpkin','onion','carrot','radish','enokitake','head lettuce','citrus','large green onion','pepper']
 
 
 
